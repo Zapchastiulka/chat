@@ -15,7 +15,7 @@ export default defineConfig({
 
   plugins: [react(), svgr()],
 
-  base: '/chat-zapchaztiulka/',
+  base: '/chat/',
 
   css: {
     postcss: {
